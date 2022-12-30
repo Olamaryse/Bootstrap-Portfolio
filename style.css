@@ -51,16 +51,22 @@ margin-right: 50px;
   height: 220px; 
   left: 50%;
   float: right;
+  margin-top: 10px;
 }
 .vll {
   border-left: 6px solid #293c44;
-  height: 1000px; 
+  height: 850px; 
   left: 50%;
   float: right;
+  margin-top: 20px;
 }
 
 .card-img {
   border: 5px solid rgb(145, 218, 218); 
+}
+
+.big {
+  height: 250px;
 }
 
 .col-4 {
