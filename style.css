@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #fdfeff;
+  }
+
+.navbar {
+  background-color: #293033;
+    color: #293033;
+}
+  .navbar-brand { 
+    font-size: 30px;
+    background-color: rgb(145, 218, 218);
+    color: #293033;
+    width: 200px;
+    height: 60px;
+  }
+
+ u {
+  font-size: 20px;
+    color: rgb(145, 218, 218);
+    margin: 2px;
+  }
+
+.jumbotron {
+    background-image: url(images/02-hero-bg.jpg);
+    background-size: cover;
+}
+.left {
+  background-color: rgb(145, 218, 218);
+  width: 350px;
+  height: 50px;
+  float: right;
+margin-right: 50px;
+}
+
+.subtitle {
+  margin-top: 10px;
+ margin-left: 70px;
+}
+
+
+.vl {
+  border-left: 6px solid #293c44;
+  height: 220px; 
+  left: 50%;
+  float: right;
+}
+.vll {
+  border-left: 6px solid #293c44;
+  height: 1000px; 
+  left: 50%;
+  float: right;
+}
+
+.card-img {
+  border: 5px solid rgb(145, 218, 218); 
+}
+
+.col-4 {
+  font-size: 40px;
+}
