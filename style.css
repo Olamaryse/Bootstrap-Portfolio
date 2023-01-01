@@ -72,3 +72,20 @@ margin-right: 50px;
 .col-4 {
   font-size: 40px;
 }
+
+.grid-text {
+  background-color: rgb(145, 218, 218);
+  width: 200px;
+  height: 62px;
+margin-right: 50px;
+margin-top: 120px;
+color: #293033;
+} 
+
+ 
+#contact a {
+  color:  #293c44;
+  text-decoration: underline;
+  font-weight: bold;
+font-size: 1.5em;
+}
