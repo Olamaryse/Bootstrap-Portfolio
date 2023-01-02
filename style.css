@@ -7,7 +7,7 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.5;
-    background-color: #fdfeff;
+    background-color: #deeaec;
     color:  #293c44;
   }
 
@@ -22,7 +22,7 @@
     width: 200px;
     height: 60px;
   }
-
+  
  u {
   font-size: 20px;
     color: rgb(145, 218, 218);
@@ -30,39 +30,30 @@
   }
 
 .jumbotron {
-  background-color: #d6e8eb;
-}
+  background-color: #cfe8ec;
+ }
 
-.card-img {
-  border: 5px solid rgb(145, 218, 218); 
-}
+#work {
+    background-color: #deeaec;
+  }
 
-.big {
-  height: 250px;
-}
+  .card {
+    border-radius: 7px;
+  }
 
-.col-4 {
-  font-size: 40px;
-}
+  .btn {
+    background-color: rgb(145, 218, 218);
+  }
 
-.grid-text {
-  background-color: rgb(145, 218, 218);
-  height: 62px;
-margin-right: 50px;
-margin-top: 120px;
-color: #293c44;
-} 
-
-h5, h6 {
-  color: #293c44;
-}
-
- 
 #contact a {
   color:  #293c44;
   text-decoration: underline;
   font-weight: bold;
 font-size: 1.5em;
+}
+
+#skill {
+  background-color: #bad7db;
 }
 h3 {
   font-size: 2vw;
