@@ -30,36 +30,7 @@
   }
 
 .jumbotron {
-    background-image: url(images/02-hero-bg.jpg);
-    background-size: cover;
-}
-.left {
-  background-color: rgb(145, 218, 218);
-  width: 350px;
-  height: 50px;
-  float: right;
-margin-right: 50px;
-}
-
-.subtitle {
-  margin-top: 10px;
- margin-left: 70px;
-}
-
-
-.vl {
-  border-left: 6px solid #293c44;
-  height: 220px; 
-  left: 50%;
-  float: right;
-  margin-top: 10px;
-}
-.vll {
-  border-left: 6px solid #293c44;
-  height: 850px; 
-  left: 50%;
-  float: right;
-  margin-top: 20px;
+  background-color: #d6e8eb;
 }
 
 .card-img {
@@ -98,4 +69,12 @@ h3 {
 }
 p {
   font-size: 1.05vw;
+}
+a  {
+  color: #293c44;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+a:hover {
+  background-color: #c2e7ec;
 }
